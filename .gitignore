@@ -1,0 +1,11 @@
+.idea
+target
+log
+.settings
+.classpath
+.project
+*.iml
+.DS_Store
+dependency-reduced-pom.xml
+bin
+*.pid
